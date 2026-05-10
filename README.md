@@ -1,1 +1,1 @@
-# thostz.github.io
+To use index.html
